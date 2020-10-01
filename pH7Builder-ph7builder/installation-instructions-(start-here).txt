@@ -1,0 +1,25 @@
+1. Requirements: https://ph7cms.com/doc/en/requirements
+2. Installation: https://ph7cms.com/doc/en/install
+3. Once you finished the installation, your admin panel URL will be: http://YOUR-PH7CMS-SITE.com/admin123/
+
+
+--- Softaculous Installation ---
+If your web host offers Softaculous with pH7Builder enabled, you can install pH7Builder in one-click.
+Generally, through cPanel -> Softaculous icon -> search for "pH7Builder".
+
+
+--- Good Hosting ---
+https://ph7cms.com/hosting/
+
+
+--- Useful doc ---
+Documentation: https://ph7cms.com/doc/
+Github Wiki: https://github.com/pH7Software/pH7Builder/wiki/
+pH7Builder Blog: https://ph7cms.com/blog (if you dig well, you will find several tutorials and helpful posts)
+
+
+--- Troubleshooting ---
+If you got an issue and ca't find the answer anywhere on the web,
+a good idea is to dig the Open/Closed Issues
+or open an issue if you couldn't find the answer to your problem.
+Issues: https://github.com/pH7Software/pH7Builder/issues
